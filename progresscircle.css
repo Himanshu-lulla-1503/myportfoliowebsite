@@ -72,11 +72,11 @@
 }
 
 .warning-stroke {
-  stroke: ##28a745;
+  stroke: #28a745;
 }
 
 .danger-stroke {
-  stroke: ##28a745;
+  stroke: #28a745;
 }
 
 @keyframes circle-chart-fill {
