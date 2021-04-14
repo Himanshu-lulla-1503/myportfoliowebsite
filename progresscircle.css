@@ -66,16 +66,16 @@
     font-size: 3px;
 }
 
-.success-stroke {
+.success-stroke{
   stroke: #28a745;
   opacity: 1;
 }
 
-.warning-stroke {
+.warning-stroke{
   stroke: #28a745;
 }
 
-.danger-stroke {
+.danger-stroke{
   stroke: #28a745;
 }
 
